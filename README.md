@@ -1,19 +1,14 @@
-# lab-01
+## Lab-01
 
-## Project Name
-
-### Author: Student/Group Name
+### Author: Jonathon Schwamman
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [submission PR](https://github.com/Schwamman-401-advanced-javascript/lab-01/pull/1)
+* [travis](https://www.travis-ci.com/Schwamman-401-advanced-javascript/lab-01)
+
 
 #### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+
 
 ### Modules
 #### `modulename.js`

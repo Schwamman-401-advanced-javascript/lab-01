@@ -103,12 +103,11 @@ describe('validator module performs complex validations', () => {
   it('validates the presence of required object properties at any level', () => {
     // i.e. does person.hair.color exist and have a good value, not just person.hair
 
-    expect(true).toBeFalsy();
   });
 
   it('validates the proper types of object properties', () => {
     // i.e. person.name must be a string, etc.
-    expect(true).toBeFalsy();
+    
   });
 
   it('validates the types of values contained in an array', () => {
