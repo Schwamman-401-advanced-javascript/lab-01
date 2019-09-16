@@ -1,3 +1,4 @@
+/* eslint-disable no-empty-function */
 'use strict';
 
 const validator = require('../lib/validator.js');
@@ -107,7 +108,6 @@ describe('validator module performs complex validations', () => {
 
   it('validates the proper types of object properties', () => {
     // i.e. person.name must be a string, etc.
-    
   });
 
   it('validates the types of values contained in an array', () => {
